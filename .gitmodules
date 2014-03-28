@@ -1,0 +1,3 @@
+[submodule "xtalib"]
+	path = xtalib
+	url = git://github.com/youngung/xtalib.git
